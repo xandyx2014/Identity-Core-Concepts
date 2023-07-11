@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    @if (User.Identity.IsAuthenticated)
+    {
+        var autentica2Factores = ViewData["Autenticacion2FactoresActiva"];
+        if (autentica2Factores != null && autentica2Factores.ToString().ToLower() == "true")
+        {
+            <a asp-action="EliminarAutenticador" asp-controller="Cuentas" class="btn btn-danger">Resetear o Eliminar Autenticación de dos factores</a>
+
+        }else{
+            <a asp-action="ActivarAutenticador" asp-controller="Cuentas" class="btn btn-primary">Configurar Autenticación de dos factores</a>
+            <br />
+        }        
+    }
+</div>

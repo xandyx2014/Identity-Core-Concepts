@@ -1,0 +1,184 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProyectoIdentity
+build_property.RootNamespace = ProyectoIdentity
+build_property.ProjectDir = C:\Users\JANUS\source\repos\ProyectoIdentity\ProyectoIdentity\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\JANUS\source\repos\ProyectoIdentity\ProyectoIdentity
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Autorizacion/AccesoAdministrador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JpemFjaW9uXEFjY2Vzb0FkbWluaXN0cmFkb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Autorizacion/AccesoAdministradorPermisoCrear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JpemFjaW9uXEFjY2Vzb0FkbWluaXN0cmFkb3JQZXJtaXNvQ3JlYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Autorizacion/AccesoAdministradorPermisoCrearEditarBorrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JpemFjaW9uXEFjY2Vzb0FkbWluaXN0cmFkb3JQZXJtaXNvQ3JlYXJFZGl0YXJCb3JyYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Autorizacion/AccesoAdministradorPermisoEditarBorrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JpemFjaW9uXEFjY2Vzb0FkbWluaXN0cmFkb3JQZXJtaXNvRWRpdGFyQm9ycmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Autorizacion/AccesoAutenticado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JpemFjaW9uXEFjY2Vzb0F1dGVudGljYWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Autorizacion/AccesoPublico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JpemFjaW9uXEFjY2Vzb1B1YmxpY28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Autorizacion/AccesoRegistrado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JpemFjaW9uXEFjY2Vzb1JlZ2lzdHJhZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Autorizacion/AccesoUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JpemFjaW9uXEFjY2Vzb1VzdWFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Autorizacion/AccesoUsuarioAdministrador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JpemFjaW9uXEFjY2Vzb1VzdWFyaW9BZG1pbmlzdHJhZG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Autorizacion/AccesoUsuarioYAdministrador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JpemFjaW9uXEFjY2Vzb1VzdWFyaW9ZQWRtaW5pc3RyYWRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Cuentas/Acceso.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xBY2Nlc28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Cuentas/ActivarAutenticador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xBY3RpdmFyQXV0ZW50aWNhZG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Cuentas/Bloqueado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xCbG9xdWVhZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Cuentas/ConfirmacionAccesoExterno.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xDb25maXJtYWNpb25BY2Nlc29FeHRlcm5vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Cuentas/ConfirmacionAutenticador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xDb25maXJtYWNpb25BdXRlbnRpY2Fkb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Cuentas/ConfirmacionOlvidoPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xDb25maXJtYWNpb25PbHZpZG9QYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Cuentas/ConfirmacionRecuperaPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xDb25maXJtYWNpb25SZWN1cGVyYVBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Cuentas/ConfirmarEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xDb25maXJtYXJFbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Cuentas/Denegado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xEZW5lZ2Fkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Cuentas/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Cuentas/OlvidoPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xPbHZpZG9QYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Cuentas/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xSZWdpc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Cuentas/RegistroAdministrador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xSZWdpc3Ryb0FkbWluaXN0cmFkb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Cuentas/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Cuentas/VerificarCodigoAutenticador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xWZXJpZmljYXJDb2RpZ29BdXRlbnRpY2Fkb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Roles/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Roles/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Shared/_LoginRegistroVistaParcial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblJlZ2lzdHJvVmlzdGFQYXJjaWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Usuarios/AdministrarClaimsUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQWRtaW5pc3RyYXJDbGFpbXNVc3VhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Usuarios/CambiarPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ2FtYmlhclBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Usuarios/ConfirmacionCambioPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ29uZmlybWFjaW9uQ2FtYmlvUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Usuarios/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Usuarios/EditarPerfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdGFyUGVyZmlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JANUS/source/repos/ProyectoIdentity/ProyectoIdentity/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jg4w9kbpph
